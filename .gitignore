@@ -5,10 +5,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
-
+Client/node_modules
+Server_With_Firestore/functions/node_modules
 # Firebase cache
 .firebase/
-
+Server_With_Firestore/.firebase
 # Firebase config
 
 # Uncomment this if you'd like others to create their own Firebase project.
@@ -72,13 +73,13 @@ node_modules
 # local env files
 .env.local
 .env.*.local
-
+Client/.firebasecd
 # Log files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Editor directories and files
+                                                                                                                                                  mxvcbcvvcvcccvfcvcfvcvfcffff/ccfcffcci/.c.
+# Editor directories and files                                                                                                     
 .idea
 .vscode
 *.suo
