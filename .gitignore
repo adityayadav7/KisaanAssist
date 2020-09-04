@@ -1,15 +1,15 @@
 # Logs
+node_modules/
 logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
-Client/node_modules
-Server_With_Firestore/functions/node_modules
+
 # Firebase cache
 .firebase/
-Server_With_Firestore/.firebase
+
 # Firebase config
 
 # Uncomment this if you'd like others to create their own Firebase project.
