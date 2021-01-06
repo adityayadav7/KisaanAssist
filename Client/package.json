@@ -9,7 +9,7 @@
     "dev": "webpack --config webpack.config"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-install": "^2.1.0",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.6.1",
